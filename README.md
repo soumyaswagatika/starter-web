@@ -16,6 +16,8 @@ This is the simple web project , deployment can be  on any web server or even lo
 
 ##how to continue
 
+Please fork this repository and the issue pull request for review.
+
 
 ##copyright 
 
