@@ -22,4 +22,4 @@ Please fork this repository and the issue pull request for review.
 
 ##copyright 
 
-2021 git.trainning.
+2021 git.trainning.All rights reserved.
